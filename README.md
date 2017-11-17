@@ -3,6 +3,7 @@
 ##  Scala操作HDFS
 ###  需求
 HDFS路径：
+
 /spark/emp/temp/201711112025/d=20171111/h=20/part-r-00000-6ba69620-ba52-4cb1-9ea0-6634ae0e16bc.txt</br>
 /spark/emp/temp/201711112025/d=20171111/h=20/part-r-00001-6ba69620-ba52-4cb1-9ea0-6634ae0e16bc.txt</br>
 /spark/emp/temp/201711112025/d=20171111/h=20/part-r-00002-6ba69620-ba52-4cb1-9ea0-6634ae0e16bc.txt</br>
